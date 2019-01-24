@@ -7,7 +7,7 @@ package udpAndTcp.constants;
  * @Date 2019/1/20 20:19
  * @Version
  */
-public class TcpConstants {
+public class TCPConstants {
     /**
      * 服务器固化UDP接收端口
      */

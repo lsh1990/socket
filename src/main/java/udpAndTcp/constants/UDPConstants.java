@@ -19,5 +19,5 @@ public class UDPConstants {
     /**
      * 客户端回送端口
      */
-    public static int PORT_CLIENT_RESPINSE = 30202;
+    public static int PORT_CLIENT_RESPONSE = 30202;
 }
